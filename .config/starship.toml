@@ -1,0 +1,7 @@
+add_newline = true
+
+[package]
+disabled = true
+
+[java]
+detect_extensions = ["java", "class", "gradle", "cljs", "cljc"]
