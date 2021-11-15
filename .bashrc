@@ -165,3 +165,6 @@ tdl () {
 }
 
 (cat ~/.cache/wal/sequences &)
+
+# Starship
+eval "$(starship init bash)"
